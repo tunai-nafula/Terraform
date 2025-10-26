@@ -1,2 +1,2 @@
 # Terraform
-Learn Terraform, from basics to advanced
+Learn Terraform, basics
